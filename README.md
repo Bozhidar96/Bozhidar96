@@ -11,7 +11,7 @@ In my current role, I'm a Senior Software Engineer at LivePerson, working with V
  - Modernized legacy systems, implementing Sentry for monitoring and optimizing performance visibility.
  - Participated in on-call rotations, troubleshooting production issues and coordinating incident response.
 
-One of my proudest achievements is developing the mobile app "**Мачовете по ТВ**", available on the <a href="https://play.google.com/store/apps/details?id=com.mfutbg.app&hl=bg">Google Play Store</a>
+One of my proudest achievements is developing the mobile app "**Мачовете по ТВ**", available on the <a href="https://play.google.com/store/apps/details?id=com.mfutbg.app&hl=bg">Google Play Store</a> / <a href="">Apple Store </a> / <a href="https://www.telefootball.net/BG/tvs"> WEB </a>
  - The app has 200,000+ active users and 5+ million downloads, supporting 10+ languages.
  - Built with ReactJS, Kotlin, Swift, PHP, Python, and TypeScript, providing a seamless experience for sports fans worldwide.
 
